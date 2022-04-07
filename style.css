@@ -1,0 +1,128 @@
+body{
+    margin: 0 auto;
+    width: 1500px;
+    background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+#dot{
+    height: 30px;
+    padding-left: 50px;
+    background-color: rgb(127, 122, 122);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+#menuparent{
+    display: flex;
+    margin-top: 30px;
+     
+}
+#menu{
+    display: flex;
+    padding-left: 900px;
+}
+.pro1,.pro2,.pro3,.pro4{
+    padding-right: 30px;
+}
+#acme{
+    margin-left: 30px;
+    border-top: 5px solid black;
+    height:5px;
+    font-size: x-large;
+}
+#lid{
+    font-size: xx-large;
+        margin-top: 70px;
+    text-align: center;
+}
+.lidh2{
+    color:rgb(183, 179, 179);
+    padding-left: 500px;
+    justify-content: center;
+    width: 500px;
+    text-align: justify;
+}
+#search{
+    display: flex;
+    justify-content: center;
+}
+#lps1{
+    margin-top:30px;
+    padding-left: 400px;
+    display: flex;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+}
+#lp1{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+#lp2{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+#lp3{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+
+.l1{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+.l2{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+.l3{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+#lps2{
+    margin-top:150px;
+    padding-left: 400px;
+    display: flex;
+    grid-template-columns: auto auto auto;
+    gap: 50px;
+}
+#lp4{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+#lp5{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+#lp6{
+    background-color: gray;
+    width: 200px;
+    height: 100px;
+}
+
+.l4{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+.l5{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+.l6{
+    border: 1px solid gray;
+    width: 200px;
+    height: 100px;
+}
+
+
+
